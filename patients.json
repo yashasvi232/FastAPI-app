@@ -1,0 +1,101 @@
+{"P001": {
+    "name": "Amit Sharma",
+    "city": "Mumbai",
+    "age": 29,
+    "gender": "Male",
+    "height": 172,
+    "weight": 70,
+    "bmi": 23.7,
+    "verdict": "Normal"
+  },
+  "P002": {
+    "name": "Priya Singh",
+    "city": "Delhi",
+    "age": 34,
+    "gender": "Female",
+    "height": 160,
+    "weight": 75,
+    "bmi": 29.3,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Rahul Verma",
+    "city": "Bengaluru",
+    "age": 41,
+    "gender": "Male",
+    "height": 178,
+    "weight": 92,
+    "bmi": 29.0,
+    "verdict": "Overweight"
+  },
+  "P004": {
+    "name": "Sneha Patil",
+    "city": "Pune",
+    "age": 25,
+    "gender": "Female",
+    "height": 155,
+    "weight": 48,
+    "bmi": 19.9,
+    "verdict": "Normal"
+  },
+  "P005": {
+    "name": "Vikram Joshi",
+    "city": "Hyderabad",
+    "age": 37,
+    "gender": "Male",
+    "height": 169,
+    "weight": 95,
+    "bmi": 33.3,
+    "verdict": "Obese"
+  },
+  "P006": {
+    "name": "Ayesha Khan",
+    "city": "Lucknow",
+    "age": 30,
+    "gender": "Female",
+    "height": 162,
+    "weight": 54,
+    "bmi": 20.6,
+    "verdict": "Normal"
+  },
+  "P007": {
+    "name": "Rohan Mehta",
+    "city": "Ahmedabad",
+    "age": 45,
+    "gender": "Male",
+    "height": 181,
+    "weight": 110,
+    "bmi": 33.6,
+    "verdict": "Obese"
+  },
+  "P008": {
+    "name": "Neha Gupta",
+    "city": "Jaipur",
+    "age": 27,
+    "gender": "Female",
+    "height": 164,
+    "weight": 60,
+    "bmi": 22.3,
+    "verdict": "Normal"
+  },
+  "P009": {
+    "name": "Sanjay Kumar",
+    "city": "Chennai",
+    "age": 53,
+    "gender": "Male",
+    "height": 170,
+    "weight": 102,
+    "bmi": 35.3,
+    "verdict": "Obese"
+  },
+  "P010": {
+    "name": "Divya Narayan",
+    "city": "Kolkata",
+    "age": 32,
+    "gender": "Female",
+    "height": 158,
+    "weight": 68,
+    "bmi": 27.2,
+    "verdict": "Overweight"
+  }
+}
